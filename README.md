@@ -1,7 +1,6 @@
 
-
------------------ Laboratory for Child Brain Development --------------
--------------------- Washing University in St. Louis ----------------
+--- Laboratory for Child Brain Development ---
+------ Washing University in St. Louis -------
 
                         - GLM Analysis Package -
 
