@@ -1,9 +1,9 @@
 
+         - GLM Analysis Package -
+
 --- Laboratory for Child Brain Development ---
 
 ------ Washing University in St. Louis -------
-
-                        - GLM Analysis Package -
 
 Within this script package you will find a series of scripts used to conduct a 2-stage GLM analysis on a Flanker task. The scripts are geared towards analyzing hemoglobin vs. neural activity, estimated using the HRfunc tool, recording in fNIRS data collected apart of the P-CAT study. The scripts could easily be geared towards other analysis by modifying the different GLM analysis (i.e. only use hemoglobin or neural activity) and modifying what data is being used.
 
