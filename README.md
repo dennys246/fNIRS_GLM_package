@@ -1,5 +1,3 @@
-
-         - GLM Analysis Package -
 --------- fNIRS GLM Analysis Package ---------
 
 --- Laboratory for Child Brain Development ---
